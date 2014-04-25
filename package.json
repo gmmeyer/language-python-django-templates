@@ -1,0 +1,12 @@
+{
+  "name": "language-python-django-templates",
+  "version": "0.0.0",
+  "description": "Python Django Templates language support in Atom",
+  "repository": "https://github.com/jpells/language-python-django-templates",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.50.0"
+  },
+  "dependencies": {
+  }
+}
